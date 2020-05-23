@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-21 20:43+1400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\downloader\templates\download.html:37
+msgid "Youtube video Downloader"
+msgstr "YouTube视频下载器"
+
+#: .\downloader\templates\download.html:45
+msgid "search or paste link here"
+msgstr "在此处搜索或粘贴链接"
+
+#: .\downloader\templates\download.html:103
+msgid "download"
+msgstr "下载"
+
+#: .\downloader\templates\download.html:147
+msgid "SaveYoutube4me.com - YouTube Video Downloader"
+msgstr "SaveYoutube4me.com-YouTube视频下载器"
+
+#: .\downloader\templates\download.html:152
+msgid ""
+"SaveYoutube4me allows you to convert &amp; download video from YouTube, "
+"Facebook, Video,\n"
+" Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality. Y2mate supports "
+"downloading\n"
+"  all video formats such as: MP4, M4V, 3GP, WMV, FLV, MO, MP3, WEBM, etc.\n"
+"   You can easily download for free thousands of videos from YouTube and "
+"other \n"
+"   websites. "
+msgstr ""
+"SaveYoutube4me允许您转换＆amp;从YouTube下载视频，脸书，影片，Dailymotion，优"
+"酷等以高清质量播放到Mp3，Mp4。 Y2mate支持正在下载所有视频格式，例如：MP4，"
+"M4V，3GP，WMV，FLV，MO，MP3，WEBM等您可以轻松地从YouTube免费下载数千个视频，"
+"其他网站"
+
+#: .\downloader\templates\download.html:161
+msgid "Free Download"
+msgstr "免费下载"
+
+#: .\downloader\templates\download.html:162
+msgid "Unlimited conversion and free download."
+msgstr "无限转换和免费下载。"
+
+#: .\downloader\templates\download.html:166
+msgid "Video"
+msgstr "视频"
+
+#: .\downloader\templates\download.html:166
+msgid "Audio"
+msgstr "音讯"
+
+#: .\downloader\templates\download.html:167
+msgid "Directly Download Video"
+msgstr "直接下载视频"
+
+#: .\downloader\templates\download.html:167
+msgid "Music."
+msgstr "音乐。"
+
+#: .\downloader\templates\download.html:171
+msgid "Easy Download"
+msgstr "轻松下载"
+
+#: .\downloader\templates\download.html:172
+msgid "Fully compatible with all browsers."
+msgstr "与所有浏览器完全兼容。"
+
+#: .\downloader\templates\download.html:184
+msgid "YouTube Converter - YouTube to MP3, MP4, AVI, FLV, ..."
+msgstr "YouTube Converter-YouTube转MP3，MP4，AVI，FLV，..."
+
+#: .\downloader\templates\download.html:187
+msgid "How to convert YouTube videos"
+msgstr "如何转换YouTube视频"
+
+#: .\downloader\templates\download.html:191
+msgid "1. Paste YouTube url or enter keywords into the search box."
+msgstr "1.粘贴YouTube网址或在搜索框中输入关键字。"
+
+#: .\downloader\templates\download.html:192
+msgid "2. Choose output format you want to convert."
+msgstr "2.选择要转换的输出格式"
+
+#: .\downloader\templates\download.html:193
+#: .\downloader\templates\download.html:214
+msgid ""
+"3. Wait until the conversion is completed and download the file. Very easy "
+"and fast."
+msgstr "3.等待转换完成，然后下载文件。很容易又快"
+
+#: .\downloader\templates\download.html:197
+msgid "The best YouTube Converter"
+msgstr "最好的YouTube转换器"
+
+#: .\downloader\templates\download.html:199
+msgid ""
+"By using our YouTube Converter you can now easily convert YouTube videos to "
+"audio (M4A, MP3, WAV, AAC, OGG, WMA, FLAC) or\n"
+" video (AVI, MP4, MPG, MOV, WMV, KMV, M4V, WEBM, FLV, 3GP) files and "
+"download them for free. YouTube Converter is fully \n"
+" compatible with all devices (computers, tablets and mobile) and all "
+"operating systems (Windows, Mac, Linux, Android, \n"
+" iOS...). Our YouTube Converter is for free and does not require any "
+"software or registration."
+msgstr ""
+"通过使用我们的YouTube转换器，您现在可以轻松地将YouTube视频转换为音频（M4A，"
+"MP3，WAV，AAC，OGG，WMA，FLAC）或视频（AVI，MP4，MPG，MOV，WMV，KMV，M4V，"
+"WEBM，FLV，3GP）文件和免费下载它们。 YouTube转换器已完全启用与所有设备（计算"
+"机，平板电脑和移动设备）以及所有设备兼容操作系统（Windows，Mac，Linux，"
+"Android，iOS ...）。我们的YouTube转换器是免费的，不需要任何软件或注册。"
+
+#: .\downloader\templates\download.html:207
+msgid "YouTube to MP3 Converter"
+msgstr "YouTube转MP3转换器"
+
+#: .\downloader\templates\download.html:211
+msgid "How to convert YouTube videos to MP3?"
+msgstr "如何将YouTube视频转换为MP3？"
+
+#: .\downloader\templates\download.html:212
+msgid "1. Enter keywords or YouTube url into the search box."
+msgstr "1.在搜索框中输入关键字或YouTube网址。"
+
+#: .\downloader\templates\download.html:213
+msgid ""
+"2. Choose MP3 with quality you want to convert and click the \"Download\" "
+"button."
+msgstr "选择您要转换质量的MP3，然后单击下载纽扣"
+
+#: .\downloader\templates\download.html:219
+msgid "Your best YouTube to MP3 Converter"
+msgstr "您最好的YouTube到MP3转换器"
+
+#: .\downloader\templates\download.html:221
+msgid ""
+"This converter allows you to convert YouTube videos to MP3 files with just a "
+"few clicks. It supports all formats, such as\n"
+" MP3 (128kbps, 320kbps, 64kbps, 96kbps, 192kbps, 256 kbps), AAC, MP4, M4V, "
+"3GP, WMV, WMA, FLV, MO, WEBM, etc. You can now \n"
+" easily convert thousands of videos from YouTube into your favorite songs. "
+"It has never been easier to convert YouTube to\n"
+"  MP3. "
+msgstr ""
+"这个转换器可让您将YouTube视频转换为MP3文件点击几下。它支持所有格式，例如"
+"MP3（128kbps，320kbps，64kbps，96kbps，192kbps，256 kbps），AAC，MP4，M4V，"
+"3GP，WMV，WMA，FLV，MO，WEBM等。您现在可以轻松将YouTube上的数千个视频转换成您"
+"喜欢的歌曲。将YouTube转换为MP3从未如此简单。"

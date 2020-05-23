@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-21 20:17+1400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\downloader\templates\download.html:37
+msgid "Youtube video Downloader"
+msgstr "ইউটিউব ভিডিও ডাউনলোডার"
+
+#: .\downloader\templates\download.html:45
+msgid "search or paste link here"
+msgstr "লিঙ্কটি এখানে অনুসন্ধান বা পেস্ট কর"
+
+#: .\downloader\templates\download.html:103
+msgid "download"
+msgstr "ডাউনলোড"
+
+#: .\downloader\templates\download.html:147
+msgid "SaveYoutube4me.com - YouTube Video Downloader"
+msgstr "SaveYoutube4me.com-ইউটিউব ভিডিও ডাউনলোডার"
+
+#: .\downloader\templates\download.html:152
+msgid ""
+"SaveYoutube4me allows you to convert &amp; download video from YouTube, "
+"Facebook, Video,\n"
+" Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality. Y2mate supports "
+"downloading\n"
+"  all video formats such as: MP4, M4V, 3GP, WMV, FLV, MO, MP3, WEBM, etc.\n"
+"   You can easily download for free thousands of videos from YouTube and "
+"other \n"
+"   websites. "
+msgstr ""
+"SaveYoutube4me আপনাকে & amp; রূপান্তর করতে দেয়; ইউটিউব থেকে ভিডিও ডাউনলোড করুন,"
+"ফেসবুক, ভিডিও,ডেইলিমোশন, ইউকু, ইত্যাদি থেকে এমপি 3, এমপি 4 এচডি মানের মধ্যে. "
+"Y2mate সমর্থন করেডাউনলোডসমস্ত ভিডিও ফর্ম্যাট যেমন: এমপি 4, এম 4 ভি, 3 জিপি, "
+"ডাব্লুএমভি, এফএলভি, এমও, এমপি 3, ওয়েবেএম, ইত্যাদিআপনি সহজেই ইউটিউব এবং থেকে "
+"হাজার হাজার ফ্রি ভিডিও ডাউনলোড করতে পারেন"
+
+#: .\downloader\templates\download.html:161
+msgid "Free Download"
+msgstr "বিনামুল্যে ডাউনলোড"
+
+#: .\downloader\templates\download.html:162
+msgid "Unlimited conversion and free download."
+msgstr "সীমাহীন রূপান্তর এবং বিনামূল্যে ডনডনন"
+
+#: .\downloader\templates\download.html:166
+msgid "Video"
+msgstr "ভিডিও"
+
+#: .\downloader\templates\download.html:166
+msgid "Audio"
+msgstr "শ্রুতি"
+
+#: .\downloader\templates\download.html:167
+msgid "Directly Download Video"
+msgstr "সরাসরি ভিডিও ডাউনলোড করুন"
+
+#: .\downloader\templates\download.html:167
+msgid "Music."
+msgstr "গান।"
+
+#: .\downloader\templates\download.html:171
+msgid "Easy Download"
+msgstr "সহজ ডাউনলোড"
+
+#: .\downloader\templates\download.html:172
+msgid "Fully compatible with all browsers."
+msgstr "সমস্ত ব্রাউজারের সাথে সম্পূর্ণ সুসংসস"
+
+#: .\downloader\templates\download.html:184
+msgid "YouTube Converter - YouTube to MP3, MP4, AVI, FLV, ..."
+msgstr "YouTube রূপান্তরকারী-ইউটিউব থেকে এমপিইইিিিিএএ"
+
+#: .\downloader\templates\download.html:187
+msgid "How to convert YouTube videos"
+msgstr "কীভাবে ইউটিউব ভিডিও রূপান্তর করতে়হহহহ"
+
+#: .\downloader\templates\download.html:191
+msgid "1. Paste YouTube url or enter keywords into the search box."
+msgstr "1. ইউটিউব ইউআরএল আটকান বা অনুসন্ধান বাক্সে কীওয়ার্ড প্রবেশ করান"
+
+#: .\downloader\templates\download.html:192
+msgid "2. Choose output format you want to convert."
+msgstr "২. আপনি রূপান্তর করতে চান আউটপুট বিন ১"
+
+#: .\downloader\templates\download.html:193
+#: .\downloader\templates\download.html:214
+msgid ""
+"3. Wait until the conversion is completed and download the file. Very easy "
+"and fast."
+msgstr ""
+"3. রূপান্তরটি শেষ না হওয়া পর্যন্ত অপেক্ষা করুন এবং ফাইলটি ডাউনলোড করুন download খুব "
+"সহজএবং দ্রুত"
+
+#: .\downloader\templates\download.html:197
+msgid "The best YouTube Converter"
+msgstr "সেরা ইউটিউব রূপান্তরকারী"
+
+#: .\downloader\templates\download.html:199
+msgid ""
+"By using our YouTube Converter you can now easily convert YouTube videos to "
+"audio (M4A, MP3, WAV, AAC, OGG, WMA, FLAC) or\n"
+" video (AVI, MP4, MPG, MOV, WMV, KMV, M4V, WEBM, FLV, 3GP) files and "
+"download them for free. YouTube Converter is fully \n"
+" compatible with all devices (computers, tablets and mobile) and all "
+"operating systems (Windows, Mac, Linux, Android, \n"
+" iOS...). Our YouTube Converter is for free and does not require any "
+"software or registration."
+msgstr ""
+"আমাদের ইউটিউব রূপান্তরকারী ব্যবহার করে আপনি এখন সহজেই ইউটিউব ভিডিওগুলিকে এ "
+"রূপান্তর করতে পারবেনঅডিও (এম 4 এ, এমপি 3, ডাব্লুএইভি, এএসি, ওজিজি, ডাব্লুএমএ, "
+"এফএলসি) বাভিডিও (এভিআই, এমপি 4, এমপিজি, এমওভি, ডাব্লুএমভি, কেএমভি, এম 4 ভি, "
+"ওয়েবেএম, এফএলভি, 3 জিপি) ফাইল এবংএগুলিকে বিনামূল্যে ডাউনলোড করুন YouTube ইউটিউব "
+"রূপান্তর সম্পূর্ণরূপেসমস্ত ডিভাইস (কম্পিউটার, ট্যাবলেট এবং মোবাইল) এবং সকলের সাথে "
+"সামঞ্জস্যপূর্ণঅপারেটিং সিস্টেম (উইন্ডোজ, ম্যাক, লিনাক্স, অ্যান্ড্রয়েড,আইওএস ...). "
+"আমাদের ইউটিউব রূপান্তরটি নিখরচায় এবং কোনও প্রয়োজন হয় নাসফ্টওয়্যার বা নিবন্ধকরণ।"
+
+#: .\downloader\templates\download.html:207
+msgid "YouTube to MP3 Converter"
+msgstr "ইউটিউব এমপি 3 রূপান্তরকারী"
+
+#: .\downloader\templates\download.html:211
+msgid "How to convert YouTube videos to MP3?"
+msgstr "ইউটিউব ভিডিওগুলিকে এমপি 3 এ রূপাইইইইইইইর"
+
+#: .\downloader\templates\download.html:212
+msgid "1. Enter keywords or YouTube url into the search box."
+msgstr "1. অনুসন্ধান বাক্সে কীওয়ার্ড বা ইউিিিিিিিিিিিিিিিিিিি"
+
+#: .\downloader\templates\download.html:213
+msgid ""
+"2. Choose MP3 with quality you want to convert and click the \"Download\" "
+"button."
+msgstr ""
+"২. আপনি রূপান্তর করতে চান এমন মানের সাথে এমপি 3 চয়ন করুন এবং ডাউনলোডটি ক্লিক "
+"করুনবোতাম।"
+
+#: .\downloader\templates\download.html:219
+msgid "Your best YouTube to MP3 Converter"
+msgstr "আপনার এমপিথ্রি রূপান্তরকারী সেরাইইইইইইইই"
+
+#: .\downloader\templates\download.html:221
+msgid ""
+"This converter allows you to convert YouTube videos to MP3 files with just a "
+"few clicks. It supports all formats, such as\n"
+" MP3 (128kbps, 320kbps, 64kbps, 96kbps, 192kbps, 256 kbps), AAC, MP4, M4V, "
+"3GP, WMV, WMA, FLV, MO, WEBM, etc. You can now \n"
+" easily convert thousands of videos from YouTube into your favorite songs. "
+"It has never been easier to convert YouTube to\n"
+"  MP3. "
+msgstr ""
+"এই রূপান্তরকারী আপনাকে ইউটিউব ভিডিওগুলিকে এমপি 3 দিয়ে এমপি 3 ফাইলে রূপান্তর করতে "
+"দেয় কয়েকটি ক্লিক It এটি সমস্ত ফর্মেরমরররএমপি 3 (128 কেবিপিএস, 320 কেবিপিএস, 64 "
+"কেবিপিএস, 96 কেবিপিএস, 192 কেবিপিএস, 256 কেবিপিএস), এএসি, এমপি 4, এম 4 ভি,3 "
+"জিপি, ডাব্লুএমভি, ডাব্লুএমএ, এফএলভি, এমও, ওয়েবেএম, ইত্যাদি আপনি এখন, YouTube থেকে "
+"হাজার হাজার ভিডিওকে সহজেই আপনার প্রিয় গানে রূপান্তর করুন.ইউটিউবকে convert n "
+"রূপান্তর করা কখনই সহজ ছিল িলএমপি 3।"

@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-21 20:40+1400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\downloader\templates\download.html:37
+msgid "Youtube video Downloader"
+msgstr "Youtube Video İndirici"
+
+#: .\downloader\templates\download.html:45
+msgid "search or paste link here"
+msgstr "buraya bağlantı arayın veya yapıştırın"
+
+#: .\downloader\templates\download.html:103
+msgid "download"
+msgstr " indir"
+
+#: .\downloader\templates\download.html:147
+msgid "SaveYoutube4me.com - YouTube Video Downloader"
+msgstr "SaveYoutube4me.com - YouTube Video İndirici"
+
+#: .\downloader\templates\download.html:152
+msgid ""
+"SaveYoutube4me allows you to convert &amp; download video from YouTube, "
+"Facebook, Video,\n"
+" Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality. Y2mate supports "
+"downloading\n"
+"  all video formats such as: MP4, M4V, 3GP, WMV, FLV, MO, MP3, WEBM, etc.\n"
+"   You can easily download for free thousands of videos from YouTube and "
+"other \n"
+"   websites. "
+msgstr ""
+"SaveYoutube4me dönüştürmek & amp; YouTube'dan video indirin Facebook, Video, "
+"Dailymotion, Youku, vb. Mp3, Mp4 HD kalitesinde. Y2mate desteklerindirmeMP4, "
+"M4V, 3GP, WMV, FLV, MO, MP3, WEBM vb. gibi tüm video formatları.YouTube'dan "
+"ücretsiz binlerce videoyu kolayca indirebilirsiniz vediğerweb siteleri."
+
+#: .\downloader\templates\download.html:161
+msgid "Free Download"
+msgstr " Ücretsiz indirin"
+
+#: .\downloader\templates\download.html:162
+msgid "Unlimited conversion and free download."
+msgstr "Sınırsız dönüşüm ve ücretsiz indirme."
+
+#: .\downloader\templates\download.html:166
+msgid "Video"
+msgstr "Video"
+
+#: .\downloader\templates\download.html:166
+msgid "Audio"
+msgstr "Ses"
+
+#: .\downloader\templates\download.html:167
+msgid "Directly Download Video"
+msgstr "Doğrudan Video İndir"
+
+#: .\downloader\templates\download.html:167
+msgid "Music."
+msgstr "Müzik."
+
+#: .\downloader\templates\download.html:171
+msgid "Easy Download"
+msgstr "Kolay İndirme"
+
+#: .\downloader\templates\download.html:172
+msgid "Fully compatible with all browsers."
+msgstr "Tüm tarayıcılarla tamamen uyumludur."
+
+#: .\downloader\templates\download.html:184
+msgid "YouTube Converter - YouTube to MP3, MP4, AVI, FLV, ..."
+msgstr "YouTube Dönüştürücü - YouTube'dan MP3, MP4, AVI, FLV, ..."
+
+#: .\downloader\templates\download.html:187
+msgid "How to convert YouTube videos"
+msgstr "YouTube videoları nasıl dönüştürülür?"
+
+#: .\downloader\templates\download.html:191
+msgid "1. Paste YouTube url or enter keywords into the search box."
+msgstr ""
+"1. YouTube url'sini yapıştırın veya arama kutusuna anahtar kelimeler girin."
+
+#: .\downloader\templates\download.html:192
+msgid "2. Choose output format you want to convert."
+msgstr "2. Dönüştürmek istediğiniz çıktı biçimini seçin."
+
+#: .\downloader\templates\download.html:193
+#: .\downloader\templates\download.html:214
+msgid ""
+"3. Wait until the conversion is completed and download the file. Very easy "
+"and fast."
+msgstr ""
+"3. Dönüştürme tamamlanana kadar bekleyin ve dosyayı indirin. Çok kolayve "
+"hızlı."
+
+#: .\downloader\templates\download.html:197
+msgid "The best YouTube Converter"
+msgstr "En iyi YouTube Dönüştürücü"
+
+#: .\downloader\templates\download.html:199
+msgid ""
+"By using our YouTube Converter you can now easily convert YouTube videos to "
+"audio (M4A, MP3, WAV, AAC, OGG, WMA, FLAC) or\n"
+" video (AVI, MP4, MPG, MOV, WMV, KMV, M4V, WEBM, FLV, 3GP) files and "
+"download them for free. YouTube Converter is fully \n"
+" compatible with all devices (computers, tablets and mobile) and all "
+"operating systems (Windows, Mac, Linux, Android, \n"
+" iOS...). Our YouTube Converter is for free and does not require any "
+"software or registration."
+msgstr ""
+"YouTube Converter'ımızı kullanarak artık YouTube videolarını kolaycases "
+"(M4A, MP3, WAV, AAC, OGG, WMA, FLAC) veyavideo (AVI, MP4, MPG, MOV, WMV, "
+"KMV, M4V, WEBM, FLV, 3GP) dosyaları veücretsiz indirin. YouTube Converter "
+"tamamentüm cihazlarla (bilgisayarlar, tabletler ve mobil) ve tümüyle "
+"uyumluişletim sistemleri (Windows, Mac, Linux, Android,iOS ...). YouTube "
+"Dönüştürücümüz ücretsizdir ve herhangi bir şey gerektirmezyazılım veya kayıt."
+
+#: .\downloader\templates\download.html:207
+msgid "YouTube to MP3 Converter"
+msgstr "YouTube MP3 Dönüştürücü"
+
+#: .\downloader\templates\download.html:211
+msgid "How to convert YouTube videos to MP3?"
+msgstr "YouTube videolarını MP3'e nasıl dönüştürebilirim?"
+
+#: .\downloader\templates\download.html:212
+msgid "1. Enter keywords or YouTube url into the search box."
+msgstr "1. Arama kutusuna anahtar kelimeler veya YouTube URL'si girin."
+
+#: .\downloader\templates\download.html:213
+msgid ""
+"2. Choose MP3 with quality you want to convert and click the \"Download\" "
+"button."
+msgstr ""
+"2. Dönüştürmek istediğiniz kalitede MP3 seçin ve İndir'e tıklayın buton."
+
+#: .\downloader\templates\download.html:219
+msgid "Your best YouTube to MP3 Converter"
+msgstr "En iyi YouTube MP3 Dönüştürücü"
+
+#: .\downloader\templates\download.html:221
+msgid ""
+"This converter allows you to convert YouTube videos to MP3 files with just a "
+"few clicks. It supports all formats, such as\n"
+" MP3 (128kbps, 320kbps, 64kbps, 96kbps, 192kbps, 256 kbps), AAC, MP4, M4V, "
+"3GP, WMV, WMA, FLV, MO, WEBM, etc. You can now \n"
+" easily convert thousands of videos from YouTube into your favorite songs. "
+"It has never been easier to convert YouTube to\n"
+"  MP3. "
+msgstr ""
+"Bu dönüştürücü, YouTube videolarını yalnızca birbirkaç tıklama. Gibi tüm "
+"formatları desteklerMP3 (128 kb / sn, 320 kb / sn, 64 kb / sn, 96 kb / sn, "
+"192 kb / sn, 256 kb / sn), AAC, MP4, M4V,3GP, WMV, WMA, FLV, MO, WEBM, vb."
+"YouTube'dan binlerce videoyu en sevdiğiniz şarkılara kolayca dönüştürün."
+"YouTube'u MP3'e dönüştürmek hiç bu kadar kolay olmamıştı"

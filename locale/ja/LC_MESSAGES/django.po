@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-21 20:29+1400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\downloader\templates\download.html:37
+msgid "Youtube video Downloader"
+msgstr "Youtubeビデオダウンローダー"
+
+#: .\downloader\templates\download.html:45
+msgid "search or paste link here"
+msgstr "ここにリンクを検索または貼り付け"
+
+#: .\downloader\templates\download.html:103
+msgid "download"
+msgstr "ダウンロード"
+
+#: .\downloader\templates\download.html:147
+msgid "SaveYoutube4me.com - YouTube Video Downloader"
+msgstr "SaveYoutube4me.com-YouTube動画ダウンローダー"
+
+#: .\downloader\templates\download.html:152
+msgid ""
+"SaveYoutube4me allows you to convert &amp; download video from YouTube, "
+"Facebook, Video,\n"
+" Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality. Y2mate supports "
+"downloading\n"
+"  all video formats such as: MP4, M4V, 3GP, WMV, FLV, MO, MP3, WEBM, etc.\n"
+"   You can easily download for free thousands of videos from YouTube and "
+"other \n"
+"   websites. "
+msgstr ""
+"SaveYoutube4meを使用すると、変換できます＆; YouTubeからビデオをダウンロード"
+"し、Facebook、ビデオ、Dailymotion、YoukuなどをHD品質でMp3、Mp4に変換します。 "
+"Y2mateサポートダウンロードMP4、M4V、3GP、WMV、FLV、MO、MP3、WEBMなどのすべて"
+"のビデオ形式YouTubeから数千の動画を無料で簡単にダウンロードできます。「その"
+"他 ウェブサイト。"
+
+#: .\downloader\templates\download.html:161
+msgid "Free Download"
+msgstr "無料ダウンロード"
+
+#: .\downloader\templates\download.html:162
+msgid "Unlimited conversion and free download."
+msgstr "無制限の変換と無料ダウンロード。"
+
+#: .\downloader\templates\download.html:166
+msgid "Video"
+msgstr "ビデオ"
+
+#: .\downloader\templates\download.html:166
+msgid "Audio"
+msgstr "オーディオ"
+
+#: .\downloader\templates\download.html:167
+msgid "Directly Download Video"
+msgstr "ビデオを直接ダウンロード"
+
+#: .\downloader\templates\download.html:167
+msgid "Music."
+msgstr "音楽。"
+
+#: .\downloader\templates\download.html:171
+msgid "Easy Download"
+msgstr "簡単ダウンロード"
+
+#: .\downloader\templates\download.html:172
+msgid "Fully compatible with all browsers."
+msgstr "すべてのブラウザと完全に互換性があります"
+
+#: .\downloader\templates\download.html:184
+msgid "YouTube Converter - YouTube to MP3, MP4, AVI, FLV, ..."
+msgstr "YouTubeコンバーター-YouTubeからMP3、MP4、AVI、FLVなど.."
+
+#: .\downloader\templates\download.html:187
+msgid "How to convert YouTube videos"
+msgstr "YouTubeビデオを変換する方法"
+
+#: .\downloader\templates\download.html:191
+msgid "1. Paste YouTube url or enter keywords into the search box."
+msgstr "1. YouTubeのURLを貼り付けるか、検索ボックスにキーワードを入力します。"
+
+#: .\downloader\templates\download.html:192
+msgid "2. Choose output format you want to convert."
+msgstr "2.変換する出力形式を選択します"
+
+#: .\downloader\templates\download.html:193
+#: .\downloader\templates\download.html:214
+msgid ""
+"3. Wait until the conversion is completed and download the file. Very easy "
+"and fast."
+msgstr ""
+"3.変換が完了するまで待ち、ファイルをダウンロードします。非常に簡単そして速"
+"い。"
+
+#: .\downloader\templates\download.html:197
+msgid "The best YouTube Converter"
+msgstr "最高のYouTubeコンバーター"
+
+#: .\downloader\templates\download.html:199
+msgid ""
+"By using our YouTube Converter you can now easily convert YouTube videos to "
+"audio (M4A, MP3, WAV, AAC, OGG, WMA, FLAC) or\n"
+" video (AVI, MP4, MPG, MOV, WMV, KMV, M4V, WEBM, FLV, 3GP) files and "
+"download them for free. YouTube Converter is fully \n"
+" compatible with all devices (computers, tablets and mobile) and all "
+"operating systems (Windows, Mac, Linux, Android, \n"
+" iOS...). Our YouTube Converter is for free and does not require any "
+"software or registration."
+msgstr ""
+"By using our YouTube Converter you can now easily convert YouTube videos to "
+"audio (M4A, MP3, WAV, AAC, OGG, WMA, FLAC) orvideo (AVI, MP4, MPG, MOV, WMV, "
+"KMV, M4V, WEBM, FLV, 3GP) files and download them for free. YouTube "
+"Converter is fullycompatible with all devices (computers, tablets and "
+"mobile) and all operating systems (Windows, Mac, Linux, Android,  iOS...). "
+"Our YouTube Converter is for free and does not require any software or "
+"registration."
+
+#: .\downloader\templates\download.html:207
+msgid "YouTube to MP3 Converter"
+msgstr "YouTube MP3変換"
+
+#: .\downloader\templates\download.html:211
+msgid "How to convert YouTube videos to MP3?"
+msgstr "YouTube動画をMP3に変換する方法は？"
+
+#: .\downloader\templates\download.html:212
+msgid "1. Enter keywords or YouTube url into the search box."
+msgstr "1.検索ボックスにキーワードまたはYouTubeのURLを入力します。"
+
+#: .\downloader\templates\download.html:213
+msgid ""
+"2. Choose MP3 with quality you want to convert and click the \"Download\" "
+"button."
+msgstr "2.変換したい品質のMP3を選択し、ダウンロードをクリックします ボタン。"
+
+#: .\downloader\templates\download.html:219
+msgid "Your best YouTube to MP3 Converter"
+msgstr "最高のYouTube MP3コンバーター"
+
+#: .\downloader\templates\download.html:221
+msgid ""
+"This converter allows you to convert YouTube videos to MP3 files with just a "
+"few clicks. It supports all formats, such as\n"
+" MP3 (128kbps, 320kbps, 64kbps, 96kbps, 192kbps, 256 kbps), AAC, MP4, M4V, "
+"3GP, WMV, WMA, FLV, MO, WEBM, etc. You can now \n"
+" easily convert thousands of videos from YouTube into your favorite songs. "
+"It has never been easier to convert YouTube to\n"
+"  MP3. "
+msgstr ""
+"このコンバーターを使用すると、YouTubeビデオをMP3ファイルに変換できます。数回"
+"のクリック。次のようなすべてのフォーマットをサポートしていますMP3（128kbps、"
+"320kbps、64kbps、96kbps、192kbps、256 kbps）、AAC、MP4、M4V、3GP、WMV、WMA、"
+"FLV、MO、WEBMなど。YouTubeの何千ものビデオをお気に入りの曲に簡単に変換できま"
+"す。YouTubeを簡単に変換できるようになりましたMP3。"
