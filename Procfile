@@ -1,1 +1,1 @@
-web: gunicorn vidd.wsgi --log-file-
+web: gunicorn vidd.wsgi --log-file -
