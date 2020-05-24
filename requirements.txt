@@ -41,7 +41,7 @@ python-gettext==4.0
 pytube==9.6.0
 pytube3==9.6.4
 pytz==2019.3
-pywin32==227
+
 requests==2.23.0
 selenium==3.141.0
 six==1.13.0
@@ -52,10 +52,7 @@ tqdm==4.45.0
 twilio==6.37.0
 typing-extensions==3.7.4.2
 urllib3==1.25.8
-virtualenv==16.7.9
-virtualenv-clone==0.5.3
-virtualenvwrapper==4.8.4
-virtualenvwrapper-win==1.2.5
+
 whitenoise==5.1.0
 wrapt==1.11.2
 youtube-dl==2020.3.24
