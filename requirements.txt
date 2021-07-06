@@ -7,7 +7,7 @@ CherryPy==18.6.0
 colorama==0.4.3
 configparser==4.0.2
 decorator==4.4.2
-Django==3.0.4
+Django==3.1.12
 django-crispy-forms==1.8.1
 django-jsonfield==1.4.0
 django-picklefield==2.1.1
